@@ -4,8 +4,7 @@
   command: sudo su
 
 - name: Install CloudWatch libraries
-  yum: pkg={{ item }}
-       state=latest
+  yum: pkg={{ item }} state=latest
   with_items:
     - unzip
     - perl-core
