@@ -1,0 +1,31 @@
+---
+
+- name: change permission
+  command: sudo su
+
+- name: Install CloudWatch libraries
+  yum: pkg={{ item }} state=latest
+  with_items:
+    - unzip
+    - perl-core
+    - perl-DateTime
+    - perl-Sys-Syslog
+    - perl-CPAN
+    - perl-libwww-perl
+    - perl-Crypt-SMIME
+    - perl-Crypt-SSLeay
+    - perl-LWP-Protocol-https
+
+- name: download scripts
+  get_url: url=http://aws-cloudwatch.s3.amazonaws.com/downloads/CloudWatchMonitoringScripts-1.2.1.zip dest=/opt/CloudWatchMonitoringScripts.zip
+
+- name: unzip the scripts
+  # note - unarchive should work but it fails; maybe an ansible issue?  shell: to the rescue!
+  #unarchive: src=/opt/CloudWatchMonitoringScripts.zip dest=/opt/
+  shell: "cd /opt && unzip /opt/CloudWatchMonitoringScripts.zip"
+
+- name: delete archive
+  file: path=/opt/CloudWatchMonitoringScripts.zip state=absent
+
+- name: add command to cron
+  lineinfile: dest=/etc/crontab insertafter=EOF line="*/5 * * * * /opt/aws-scripts-mon/mon-put-instance-data.pl --mem-util --mem-used --mem-avail --disk-space-util --disk-path=/ --from-cron"
