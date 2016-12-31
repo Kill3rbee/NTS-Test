@@ -1,0 +1,293 @@
+"ShortFileName","Category.new","OwaspTop10.new","Severity.new","scanDate.new","Count.new","DaysLate.new","is.new","Category.old","OwaspTop10.old","Severity.old","scanDate.old","Count.old","DaysLate.old","is.old"
+"_posix.py","Command Injection","A01-Injection","High","12/5/2016",4,15,TRUE,"Command Injection","A01-Injection","High","10/25/2016",4,56,TRUE
+"11_ro.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",4,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"aais_agent.C","Integer Overflow",NA,"High","12/2/2016",3,18,TRUE,"Insecure Compiler Optimization",NA,"Low","10/13/2016",1,68,TRUE
+"aais_agent.C","Integer Overflow",NA,"High","12/2/2016",3,18,TRUE,"Buffer Overflow: Format String",NA,"High","10/13/2016",6,68,TRUE
+"aais_agent.C","Integer Overflow",NA,"High","12/2/2016",3,18,TRUE,"Dangerous Function: strcpy()",NA,"Low","10/13/2016",342,68,TRUE
+"aais_agent.C","Integer Overflow",NA,"High","12/2/2016",3,18,TRUE,"String Termination Error",NA,"High","10/13/2016",834,68,TRUE
+"aais_agent.C","Integer Overflow",NA,"High","12/2/2016",3,18,TRUE,"Integer Overflow",NA,"High","10/13/2016",3,68,TRUE
+"aais_agent.C","Insecure Compiler Optimization",NA,"Low","12/2/2016",1,18,TRUE,"Unchecked Return Value",NA,"Low","10/13/2016",11,68,TRUE
+"aais_agent.C","Buffer Overflow: Format String",NA,"Critical","12/2/2016",12,18,TRUE,"String Termination Error",NA,"High","10/13/2016",834,68,TRUE
+"aais_agent.C","Buffer Overflow: Format String",NA,"Critical","12/2/2016",12,18,TRUE,"Integer Overflow",NA,"High","10/13/2016",3,68,TRUE
+"aais_agent.C","String Termination Error",NA,"High","12/2/2016",1377,18,TRUE,"Unchecked Return Value",NA,"Low","10/13/2016",11,68,TRUE
+"aais_agent.C","String Termination Error",NA,"High","12/2/2016",1377,18,TRUE,"Insecure Compiler Optimization",NA,"Low","10/13/2016",1,68,TRUE
+"aais_agent.C","String Termination Error",NA,"High","12/2/2016",1377,18,TRUE,"Buffer Overflow: Format String",NA,"High","10/13/2016",6,68,TRUE
+"aais_agent.C","String Termination Error",NA,"High","12/2/2016",1377,18,TRUE,"Dangerous Function: strcpy()",NA,"Low","10/13/2016",342,68,TRUE
+"about.html","Often Misused: Authentication","A02-Broken Auth & Session Management","High","12/5/2016",2,15,TRUE,"Often Misused: Authentication","A02-Broken Auth & Session Management","High","10/7/2016",2,74,TRUE
+"About.java","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","High","12/5/2016",1,15,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","High","10/25/2016",1,56,TRUE
+"about.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","12/2/2016",1,18,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","9/13/2016",1,98,TRUE
+"about.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","9/13/2016",1,98,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","9/13/2016",1,98,TRUE
+"about.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","12/2/2016",1,18,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","9/13/2016",1,98,TRUE
+"about.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","9/28/2016",1,83,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","9/28/2016",1,83,TRUE
+"AbstractCorbaIntf.java","Poor Error Handling: Empty Catch Block",NA,"Low","11/17/2016",1,33,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AbstractCorbaIntf.java","Poor Error Handling: Overly Broad Catch",NA,"Low","11/17/2016",3,33,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AbstractCorbaIntf.java","System Information Leak",NA,"Low","11/17/2016",2,33,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AbstractDaemon.java","System Information Leak",NA,"Low","11/2/2016",1,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AbstractDaemon.java","Unchecked Return Value",NA,"Low","11/2/2016",1,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AbstractDatabaseLoader.java","Path Manipulation",NA,"High","12/5/2016",1,15,TRUE,"Path Manipulation",NA,"High","10/25/2016",1,56,TRUE
+"AbstractEventListener.java","Poor Error Handling: Overly Broad Catch",NA,"Low","11/2/2016",1,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AbstractEventListener.java","System Information Leak",NA,"Low","11/2/2016",1,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AbstractEventListener.java","Unsafe Reflection",NA,"Low","11/2/2016",2,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AbstractHostKeyVerification.java","XML External Entity Injection","A01-Injection","High","11/28/2016",1,22,TRUE,"XML External Entity Injection","A01-Injection","High","10/24/2016",1,57,TRUE
+"AbstractLertFaxController.java","Often Misused: File Upload",NA,"Medium","10/31/2016",1,50,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AbstractLertFaxController.java","Path Manipulation",NA,"Critical","10/31/2016",1,50,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AbstractMastarsCorbaClientTest.java","Path Manipulation",NA,"High","11/22/2016",6,28,TRUE,"Path Manipulation",NA,"High","9/29/2016",6,82,TRUE
+"AbstractTemplateVariableParser.java","XML External Entity Injection","A01-Injection","High","12/4/2016",2,16,TRUE,"XML External Entity Injection","A01-Injection","High","10/25/2016",2,56,TRUE
+"AbstractTemplateVariableParser.java","XML External Entity Injection","A01-Injection","High","12/5/2016",1,15,TRUE,"XML External Entity Injection","A01-Injection","High","10/20/2016",2,61,TRUE
+"AbstractTransformerQueryProcessor.java","Poor Logging Practice: Use of a System Output Stream",NA,"Low","11/2/2016",2,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AbstractXMLDOMConfigurator.java","XML External Entity Injection","A01-Injection","High","12/4/2016",2,16,TRUE,"XML External Entity Injection","A01-Injection","High","10/25/2016",2,56,TRUE
+"AbstractXmlSax.java","Poor Logging Practice: Use of a System Output Stream",NA,"Low","11/17/2016",1,33,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AC_OETags.js","Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","7/18/2016",5,155,TRUE,"Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","7/18/2016",5,155,TRUE
+"accept.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",1,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"acceptcont.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",1,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"accepted.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",1,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"acceptedPo.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",1,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"acceptedRejectedUser.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",2,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"acceptedSummons.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",4,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"acceptedUnitcost.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",2,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"acceptflm.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",1,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"acceptflmcar.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",1,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"access.properties","Password Management: Password in Configuration File","A05-Security Misconfig","High","12/5/2016",1,15,TRUE,"Password Management: Password in Configuration File","A05-Security Misconfig","High","10/25/2016",1,56,TRUE
+"Access08Form.java","Password Management: Hardcoded Password",NA,"Critical","11/7/2016",1,43,TRUE,"Password Management: Hardcoded Password",NA,"Critical","9/20/2016",1,91,TRUE
+"AccessConfigTbl.java","Missing XML Validation",NA,"Low","11/17/2016",1,33,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccessConfigTbl.java","Poor Error Handling: Empty Catch Block",NA,"Low","11/17/2016",2,33,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccessConfigTbl.java","Poor Error Handling: Overly Broad Catch",NA,"Low","11/17/2016",3,33,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccessConfigTbl.java","System Information Leak",NA,"Low","11/17/2016",1,33,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccessControl.C","Path Manipulation",NA,"Critical","11/3/2016",103,47,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccessController.java","XML External Entity Injection","A01-Injection","High","9/28/2016",1,83,TRUE,"XML External Entity Injection","A01-Injection","High","9/28/2016",1,83,TRUE
+"AccessController.java","Path Manipulation",NA,"High","12/2/2016",1,18,TRUE,"Path Manipulation",NA,"High","9/28/2016",1,83,TRUE
+"AccessController.java","Path Manipulation",NA,"High","12/2/2016",1,18,TRUE,"XML External Entity Injection","A01-Injection","High","9/28/2016",1,83,TRUE
+"AccessController.java","XML External Entity Injection","A01-Injection","High","12/2/2016",1,18,TRUE,"Path Manipulation",NA,"High","9/28/2016",1,83,TRUE
+"AccessController.java","XML External Entity Injection","A01-Injection","High","12/2/2016",1,18,TRUE,"XML External Entity Injection","A01-Injection","High","9/28/2016",1,83,TRUE
+"AccessCostResponseInfoTest.java","Key Management: Empty Encryption Key",NA,"High","12/3/2016",1,17,TRUE,"Key Management: Empty Encryption Key",NA,"High","10/23/2016",1,58,TRUE
+"accordion.js","Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","12/4/2016",1,16,TRUE,"Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","10/21/2016",1,60,TRUE
+"accordion.js","Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","11/25/2016",2,25,TRUE,"Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","10/25/2016",4,56,TRUE
+"accordion_template.js","Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","11/25/2016",1,25,TRUE,"Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","10/25/2016",1,56,TRUE
+"Account.java","System Information Leak",NA,"Low","11/2/2016",9,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"Account.java","Password Management: Hardcoded Password",NA,"High","12/3/2016",3,17,TRUE,"Password Management: Hardcoded Password",NA,"High","10/20/2016",3,61,TRUE
+"AccountDAO.java","Password Management: Password in Comment",NA,"Low","11/2/2016",9,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccountDAO.java","Path Manipulation",NA,"High","11/2/2016",1,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccountDAO.java","Poor Logging Practice: Use of a System Output Stream",NA,"Low","11/2/2016",2,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccountDAO.java","Privacy Violation",NA,"Critical","11/2/2016",2,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccountDAO.java","Privacy Violation: Heap Inspection",NA,"High","11/2/2016",8,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccountDAO.java","Unchecked Return Value",NA,"Low","11/2/2016",1,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccountData.java","Poor Error Handling: Empty Catch Block",NA,"Low","11/2/2016",1,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccountData.java","Poor Error Handling: Program Catches NullPointerException",NA,"Low","11/2/2016",1,48,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"AccountForgotPassword.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","12/3/2016",2,17,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","10/20/2016",2,61,TRUE
+"AccountForgotPassword.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","12/3/2016",2,17,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/20/2016",2,61,TRUE
+"AccountForgotPassword.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","12/3/2016",2,17,TRUE,"Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","10/20/2016",4,61,TRUE
+"AccountForgotPassword.jsp","Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","12/3/2016",4,17,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","10/20/2016",2,61,TRUE
+"AccountForgotPassword.jsp","Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","12/3/2016",4,17,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/20/2016",2,61,TRUE
+"AccountForgotPassword.jsp","Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","12/3/2016",4,17,TRUE,"Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","10/20/2016",4,61,TRUE
+"AccountForgotPassword.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","12/3/2016",2,17,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","10/20/2016",2,61,TRUE
+"AccountForgotPassword.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","12/3/2016",2,17,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/20/2016",2,61,TRUE
+"AccountForgotPassword.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","12/3/2016",2,17,TRUE,"Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","10/20/2016",4,61,TRUE
+"AccountInfoEntry.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","12/5/2016",1,15,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/25/2016",1,56,TRUE
+"AccountNew.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","12/3/2016",2,17,TRUE,"Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","10/20/2016",4,61,TRUE
+"AccountNew.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","12/3/2016",2,17,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/20/2016",2,61,TRUE
+"AccountNew.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","12/3/2016",2,17,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","10/20/2016",2,61,TRUE
+"AccountNew.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","12/3/2016",2,17,TRUE,"Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","10/20/2016",4,61,TRUE
+"AccountNew.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","12/3/2016",2,17,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/20/2016",2,61,TRUE
+"AccountNew.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","12/3/2016",2,17,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","10/20/2016",2,61,TRUE
+"AccountNew.jsp","Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","12/3/2016",4,17,TRUE,"Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","10/20/2016",4,61,TRUE
+"AccountNew.jsp","Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","12/3/2016",4,17,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/20/2016",2,61,TRUE
+"addImage.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/27/2016",2,23,TRUE,"Often Misused: File Upload",NA,"Medium","10/24/2016",1,57,TRUE
+"addImage.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/27/2016",2,23,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/24/2016",1,57,TRUE
+"addImage.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/27/2016",2,23,TRUE,"Often Misused: File Upload",NA,"Medium","10/25/2016",1,56,TRUE
+"addImage.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/27/2016",2,23,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/25/2016",1,56,TRUE
+"addImage.jsp","Often Misused: File Upload",NA,"Medium","11/27/2016",2,23,TRUE,"Often Misused: File Upload",NA,"Medium","10/24/2016",1,57,TRUE
+"addImage.jsp","Often Misused: File Upload",NA,"Medium","11/27/2016",2,23,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/24/2016",1,57,TRUE
+"addImage.jsp","Often Misused: File Upload",NA,"Medium","11/27/2016",2,23,TRUE,"Often Misused: File Upload",NA,"Medium","10/25/2016",1,56,TRUE
+"addImage.jsp","Often Misused: File Upload",NA,"Medium","11/27/2016",2,23,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/25/2016",1,56,TRUE
+"AddInterfaces.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","12/3/2016",8,17,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","10/20/2016",8,61,TRUE
+"AddInterfaces.jsp","Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","12/3/2016",8,17,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/20/2016",2,61,TRUE
+"AddInterfaces.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","12/3/2016",2,17,TRUE,"Cross-Site Scripting: Persistent","A03-Cross-Site Scripting","Critical","10/20/2016",8,61,TRUE
+"AddInterfaces.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","12/3/2016",2,17,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/20/2016",2,61,TRUE
+"AddIntfUser.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","12/4/2016",1,16,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/21/2016",1,60,TRUE
+"addOrder.js","Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","12/4/2016",3,16,TRUE,"Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","10/21/2016",3,60,TRUE
+"addOrder.js","Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","12/4/2016",3,16,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/21/2016",4,60,TRUE
+"addOrder.js","Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","12/4/2016",3,16,TRUE,"Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","10/21/2016",1,60,TRUE
+"addOrder.js","Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","12/4/2016",3,16,TRUE,"Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","10/21/2016",3,60,TRUE
+"addOrder.js","Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","12/4/2016",3,16,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/21/2016",4,60,TRUE
+"addOrder.js","Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","12/4/2016",3,16,TRUE,"Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","10/21/2016",1,60,TRUE
+"addOrder.js","Cross-Site Request Forgery","A08-CSRF","Medium","12/4/2016",4,16,TRUE,"Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","10/21/2016",3,60,TRUE
+"addOrder.js","Cross-Site Request Forgery","A08-CSRF","Medium","12/4/2016",4,16,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/21/2016",4,60,TRUE
+"addOrder.js","Cross-Site Request Forgery","A08-CSRF","Medium","12/4/2016",4,16,TRUE,"Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","10/21/2016",1,60,TRUE
+"agent.C","Unchecked Return Value",NA,"Low","12/2/2016",4,18,TRUE,"Buffer Overflow: Off-by-One",NA,"Critical","10/13/2016",3,68,TRUE
+"agent.C","Unchecked Return Value",NA,"Low","12/2/2016",4,18,TRUE,"Integer Overflow",NA,"Low","10/13/2016",12,68,TRUE
+"agent.C","Unchecked Return Value",NA,"Low","12/2/2016",4,18,TRUE,"Buffer Overflow",NA,"High","10/13/2016",4,68,TRUE
+"agent.C","Unchecked Return Value",NA,"Low","12/2/2016",4,18,TRUE,"String Termination Error",NA,"High","10/13/2016",2082,68,TRUE
+"agent.C","Unchecked Return Value",NA,"Low","12/2/2016",4,18,TRUE,"Format String: Argument Number Mismatch",NA,"High","10/13/2016",1,68,TRUE
+"agent.C","Unchecked Return Value",NA,"Low","12/2/2016",4,18,TRUE,"Password Management: Password in Comment",NA,"Low","10/13/2016",5,68,TRUE
+"agent.C","Unchecked Return Value",NA,"Low","12/2/2016",4,18,TRUE,"Unchecked Return Value",NA,"Low","10/13/2016",4,68,TRUE
+"agent.C","Unchecked Return Value",NA,"Low","12/2/2016",4,18,TRUE,"Integer Overflow",NA,"High","10/13/2016",3,68,TRUE
+"agent.C","Unchecked Return Value",NA,"Low","12/2/2016",4,18,TRUE,"Buffer Overflow: Format String",NA,"High","10/13/2016",75,68,TRUE
+"Agent.java","Path Manipulation",NA,"High","12/3/2016",3,17,TRUE,"Path Manipulation",NA,"High","10/20/2016",3,61,TRUE
+"Agent.java","Often Misused: Authentication","A02-Broken Auth & Session Management","High","12/3/2016",4,17,TRUE,"Often Misused: Authentication","A02-Broken Auth & Session Management","High","10/20/2016",4,61,TRUE
+"Agent.java","Often Misused: Authentication","A02-Broken Auth & Session Management","High","12/3/2016",4,17,TRUE,"Password Management: Hardcoded Password",NA,"Critical","10/20/2016",1,61,TRUE
+"Agent.java","Often Misused: Authentication","A02-Broken Auth & Session Management","High","12/3/2016",4,17,TRUE,"Path Manipulation",NA,"High","10/20/2016",3,61,TRUE
+"Agent.java","Password Management: Hardcoded Password",NA,"Critical","12/3/2016",1,17,TRUE,"Often Misused: Authentication","A02-Broken Auth & Session Management","High","10/20/2016",4,61,TRUE
+"Agent.java","Password Management: Hardcoded Password",NA,"Critical","12/3/2016",1,17,TRUE,"Password Management: Hardcoded Password",NA,"Critical","10/20/2016",1,61,TRUE
+"Agent.java","Password Management: Hardcoded Password",NA,"Critical","12/3/2016",1,17,TRUE,"Path Manipulation",NA,"High","10/20/2016",3,61,TRUE
+"axis2.xml",NA,NA,NA,NA,NA,NA,FALSE,"Axis 2 Misconfiguration: Insecure Message Security","A05-Security Misconfig","Medium","10/23/2016",2,58,TRUE
+"axis2.xml",NA,NA,NA,NA,NA,NA,FALSE,"Axis 2 Misconfiguration: Insecure Transport Sender","A05-Security Misconfig","Medium","10/23/2016",3,58,TRUE
+"axis2.xml",NA,NA,NA,NA,NA,NA,FALSE,"Axis 2 Service Requester Misconfiguration: WS-Security Not Enabled","A05-Security Misconfig","Medium","10/23/2016",3,58,TRUE
+"axis2.xml",NA,NA,NA,NA,NA,NA,FALSE,"Axis 2 Misconfiguration: Insecure Transport Sender","A05-Security Misconfig","Medium","10/24/2016",2,57,TRUE
+"axis2.xml",NA,NA,NA,NA,NA,NA,FALSE,"Axis 2 Misconfiguration: Debug Information","A05-Security Misconfig","Medium","10/23/2016",12,58,TRUE
+"axis2.xml",NA,NA,NA,NA,NA,NA,FALSE,"Axis 2 Misconfiguration: Insecure Transport Receiver","A05-Security Misconfig","Medium","10/23/2016",2,58,TRUE
+"axis2.xml",NA,NA,NA,NA,NA,NA,FALSE,"Axis 2 Misconfiguration: Insecure Message Security","A05-Security Misconfig","Medium","10/24/2016",2,57,TRUE
+"axis2.xml",NA,NA,NA,NA,NA,NA,FALSE,"Axis 2 Misconfiguration: Insecure Transport Receiver","A05-Security Misconfig","Medium","10/24/2016",2,57,TRUE
+"axis2.xml",NA,NA,NA,NA,NA,NA,FALSE,"Axis 2 Service Requester Misconfiguration: WS-Security Not Enabled","A05-Security Misconfig","Medium","10/24/2016",2,57,TRUE
+"axis2.xml",NA,NA,NA,NA,NA,NA,FALSE,"Axis 2 Misconfiguration: Debug Information","A05-Security Misconfig","Medium","10/24/2016",8,57,TRUE
+"Web.config","ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","11/28/2016",4,22,TRUE,"ASP.NET Misconfiguration: Missing Error Handling","A05-Security Misconfig","Medium","10/13/2016",1,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","11/28/2016",4,22,TRUE,"WCF Misconfiguration: Anonymous Transport Client","A05-Security Misconfig","Medium","10/13/2016",21,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","11/28/2016",4,22,TRUE,"HTML5: MIME Sniffing",NA,"Medium","10/13/2016",17,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","11/28/2016",4,22,TRUE,"WCF Misconfiguration: Transport Security Enabled","A05-Security Misconfig","Medium","10/13/2016",5,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","11/28/2016",4,22,TRUE,"ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","10/13/2016",4,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","11/28/2016",4,22,TRUE,"WCF Misconfiguration: Throttling Not Enabled","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","11/28/2016",4,22,TRUE,"WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","11/28/2016",4,22,TRUE,"Password Management: Password in Configuration File","A05-Security Misconfig","High","10/13/2016",16,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","11/28/2016",4,22,TRUE,"ASP.NET Misconfiguration: Debug Information","A05-Security Misconfig","Medium","10/13/2016",16,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","11/28/2016",4,22,TRUE,"WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","10/13/2016",2,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","11/28/2016",4,22,TRUE,"WCF Misconfiguration: Weak Token","A05-Security Misconfig","Medium","10/13/2016",42,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"WCF Misconfiguration: Debug Information","A05-Security Misconfig","Medium","10/13/2016",6,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","10/13/2016",18,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"WCF Misconfiguration: Service Enumeration","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"ASP.NET Misconfiguration: Missing Error Handling","A05-Security Misconfig","Medium","10/13/2016",1,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"WCF Misconfiguration: Anonymous Transport Client","A05-Security Misconfig","Medium","10/13/2016",21,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"HTML5: MIME Sniffing",NA,"Medium","10/13/2016",17,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"WCF Misconfiguration: Transport Security Enabled","A05-Security Misconfig","Medium","10/13/2016",5,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","10/13/2016",4,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"WCF Misconfiguration: Throttling Not Enabled","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"Password Management: Password in Configuration File","A05-Security Misconfig","High","10/13/2016",16,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"ASP.NET Misconfiguration: Debug Information","A05-Security Misconfig","Medium","10/13/2016",16,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","10/13/2016",2,68,TRUE
+"Web.config","WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","11/28/2016",2,22,TRUE,"WCF Misconfiguration: Weak Token","A05-Security Misconfig","Medium","10/13/2016",42,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"WCF Misconfiguration: Debug Information","A05-Security Misconfig","Medium","10/13/2016",6,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","10/13/2016",18,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"WCF Misconfiguration: Service Enumeration","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"ASP.NET Misconfiguration: Missing Error Handling","A05-Security Misconfig","Medium","10/13/2016",1,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"WCF Misconfiguration: Anonymous Transport Client","A05-Security Misconfig","Medium","10/13/2016",21,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"HTML5: MIME Sniffing",NA,"Medium","10/13/2016",17,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"WCF Misconfiguration: Transport Security Enabled","A05-Security Misconfig","Medium","10/13/2016",5,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","10/13/2016",4,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"WCF Misconfiguration: Throttling Not Enabled","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"Password Management: Password in Configuration File","A05-Security Misconfig","High","10/13/2016",16,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"ASP.NET Misconfiguration: Debug Information","A05-Security Misconfig","Medium","10/13/2016",16,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","10/13/2016",2,68,TRUE
+"Web.config","WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","11/28/2016",12,22,TRUE,"WCF Misconfiguration: Weak Token","A05-Security Misconfig","Medium","10/13/2016",42,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"WCF Misconfiguration: Debug Information","A05-Security Misconfig","Medium","10/13/2016",6,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","10/13/2016",18,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"WCF Misconfiguration: Service Enumeration","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"ASP.NET Misconfiguration: Missing Error Handling","A05-Security Misconfig","Medium","10/13/2016",1,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"WCF Misconfiguration: Anonymous Transport Client","A05-Security Misconfig","Medium","10/13/2016",21,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"HTML5: MIME Sniffing",NA,"Medium","10/13/2016",17,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"WCF Misconfiguration: Transport Security Enabled","A05-Security Misconfig","Medium","10/13/2016",5,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"ASP.NET Misconfiguration: Request Validation Disabled","A05-Security Misconfig","Medium","10/13/2016",4,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"WCF Misconfiguration: Throttling Not Enabled","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"WCF Misconfiguration: Insufficient Logging","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"Password Management: Password in Configuration File","A05-Security Misconfig","High","10/13/2016",16,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"ASP.NET Misconfiguration: Debug Information","A05-Security Misconfig","Medium","10/13/2016",16,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"WCF Misconfiguration: Insecure Transport","A05-Security Misconfig","Medium","10/13/2016",2,68,TRUE
+"Web.config","WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","11/28/2016",18,22,TRUE,"WCF Misconfiguration: Weak Token","A05-Security Misconfig","Medium","10/13/2016",42,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Missing Error Handling","A05-Security Misconfig","Medium","11/28/2016",1,22,TRUE,"WCF Misconfiguration: Debug Information","A05-Security Misconfig","Medium","10/13/2016",6,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Missing Error Handling","A05-Security Misconfig","Medium","11/28/2016",1,22,TRUE,"WCF Misconfiguration: Security Not Enabled","A05-Security Misconfig","Medium","10/13/2016",18,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Missing Error Handling","A05-Security Misconfig","Medium","11/28/2016",1,22,TRUE,"WCF Misconfiguration: Service Enumeration","A05-Security Misconfig","Medium","10/13/2016",12,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Missing Error Handling","A05-Security Misconfig","Medium","11/28/2016",1,22,TRUE,"ASP.NET Misconfiguration: Missing Error Handling","A05-Security Misconfig","Medium","10/13/2016",1,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Missing Error Handling","A05-Security Misconfig","Medium","11/28/2016",1,22,TRUE,"WCF Misconfiguration: Anonymous Transport Client","A05-Security Misconfig","Medium","10/13/2016",21,68,TRUE
+"Web.config","ASP.NET Misconfiguration: Missing Error Handling","A05-Security Misconfig","Medium","11/28/2016",1,22,TRUE,"HTML5: MIME Sniffing",NA,"Medium","10/13/2016",17,68,TRUE
+"Where.asp","Cross-Site Scripting: Poor Validation","A03-Cross-Site Scripting","Medium","12/1/2016",1,19,TRUE,"Cross-Site Scripting: Poor Validation","A03-Cross-Site Scripting","Medium","10/4/2016",1,77,TRUE
+"where_are_cars.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",3,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"where_is_car.jsp","Cross-Site Request Forgery","A08-CSRF","Medium","11/16/2016",3,34,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"wicket-ajax.js","Open Redirect","A10-Unvalidated Redirects/Fwds","Critical","11/28/2016",2,22,TRUE,"Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","10/25/2016",3,56,TRUE
+"wicket-ajax.js","Open Redirect","A10-Unvalidated Redirects/Fwds","Critical","11/28/2016",2,22,TRUE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/25/2016",3,56,TRUE
+"wicket-ajax.js","Open Redirect","A10-Unvalidated Redirects/Fwds","Critical","11/28/2016",2,22,TRUE,"Open Redirect","A10-Unvalidated Redirects/Fwds","Critical","10/25/2016",2,56,TRUE
+"wicket-ajax.js","Cross-Site Request Forgery","A08-CSRF","Medium","11/28/2016",3,22,TRUE,"Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","10/25/2016",3,56,TRUE
+"XSLTHelper.java","XML External Entity Injection","A01-Injection","High","9/28/2016",1,83,TRUE,"XML External Entity Injection","A01-Injection","High","9/28/2016",1,83,TRUE
+"XSLTHelper.java","XML External Entity Injection","A01-Injection","High","12/2/2016",1,18,TRUE,"XML External Entity Injection","A01-Injection","High","9/28/2016",1,83,TRUE
+"XSLTimport.java","XML External Entity Injection","A01-Injection","High","12/3/2016",1,17,TRUE,"XML External Entity Injection","A01-Injection","High","10/20/2016",1,61,TRUE
+"XSLTTransformer.java","XML External Entity Injection","A01-Injection","High","11/27/2016",9,23,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"XsltUtils.java","XML External Entity Injection","A01-Injection","High","12/4/2016",1,16,TRUE,"XML External Entity Injection","A01-Injection","High","10/25/2016",1,56,TRUE
+"XSLUtil.java","XML External Entity Injection","A01-Injection","High","10/23/2016",1,58,TRUE,"XML External Entity Injection","A01-Injection","High","10/23/2016",1,58,TRUE
+"XSLXReader.java","Path Manipulation",NA,"High","9/28/2016",3,83,TRUE,"Path Manipulation",NA,"High","9/28/2016",3,83,TRUE
+"XSLXReader.java","Path Manipulation",NA,"High","12/2/2016",3,18,TRUE,"Path Manipulation",NA,"High","9/28/2016",3,83,TRUE
+"XSSFilter.java","Poor Error Handling: Overly Broad Catch",NA,"Low","11/17/2016",4,33,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"XSSFilter.java","Poor Logging Practice: Use of a System Output Stream",NA,"Low","11/17/2016",9,33,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"XSSFilter.java","Password Management: Password in Comment",NA,"Low","11/17/2016",2,33,TRUE,NA,NA,NA,NA,NA,NA,FALSE
+"Zoom.java","Path Manipulation",NA,"Critical","12/3/2016",4,17,TRUE,"Path Manipulation",NA,"Critical","10/20/2016",4,61,TRUE
+"Zoom.java","Path Manipulation",NA,"Critical","12/3/2016",4,17,TRUE,"Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","10/20/2016",4,61,TRUE
+"Zoom.java","Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","12/3/2016",4,17,TRUE,"Path Manipulation",NA,"Critical","10/20/2016",4,61,TRUE
+"Zoom.java","Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","12/3/2016",4,17,TRUE,"Cross-Site Scripting: Reflected","A03-Cross-Site Scripting","Critical","10/20/2016",4,61,TRUE
+"j2cutils.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Command Injection","A01-Injection","Critical","10/13/2016",3,68,TRUE
+"java2c.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Format String: Argument Number Mismatch",NA,"High","10/13/2016",1,68,TRUE
+"java2c.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Often Misused: Authentication","A02-Broken Auth & Session Management","High","10/13/2016",3,68,TRUE
+"java2c.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"Critical","10/13/2016",1,68,TRUE
+"java2c.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Buffer Overflow: Format String",NA,"High","10/13/2016",1,68,TRUE
+"java2c.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Password Management: Password in Comment",NA,"Low","10/13/2016",1,68,TRUE
+"java2c.cpp",NA,NA,NA,NA,NA,NA,FALSE,"System Information Leak: Internal",NA,"Low","10/13/2016",15,68,TRUE
+"java2c.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Unchecked Return Value",NA,"Low","10/13/2016",18,68,TRUE
+"java2cSet.cpp",NA,NA,NA,NA,NA,NA,FALSE,"System Information Leak: Internal",NA,"Low","10/13/2016",6,68,TRUE
+"java2cSet.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Format String",NA,"Low","10/13/2016",1,68,TRUE
+"java2cSet.h",NA,NA,NA,NA,NA,NA,FALSE,"Unchecked Return Value",NA,"Low","10/13/2016",2,68,TRUE
+"JaxpDOM.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"High","10/22/2016",1,59,TRUE
+"JCFile.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"High","10/24/2016",2,57,TRUE
+"SqlEnv.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"High","10/14/2016",1,67,TRUE
+"SQLGenerator.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"High","10/20/2016",1,61,TRUE
+"sqlrunreport.html",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Request Forgery","A08-CSRF","Medium","7/1/2016",1,172,TRUE
+"SrlgUploadDao.java",NA,NA,NA,NA,NA,NA,FALSE,"SQL Injection","A01-Injection","Critical","10/25/2016",6,56,TRUE
+"srm.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Command Injection","A01-Injection","Low","10/13/2016",1,68,TRUE
+"srm.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Unchecked Return Value",NA,"Low","10/13/2016",4,68,TRUE
+"UsageMetrics.java",NA,NA,NA,NA,NA,NA,FALSE,"Often Misused: Authentication","A02-Broken Auth & Session Management","High","10/7/2016",4,74,TRUE
+"UsageMetrics.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"High","10/18/2016",5,63,TRUE
+"usageMetricsReport.jsp",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/25/2016",1,56,TRUE
+"UsageMetricsState.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"High","10/18/2016",5,63,TRUE
+"UsageStatsMain.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"Critical","10/24/2016",1,57,TRUE
+"user.js",NA,NA,NA,NA,NA,NA,FALSE,"Password Management: Hardcoded Password",NA,"High","10/25/2016",1,56,TRUE
+"user.js",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/25/2016",1,56,TRUE
+"WebserviceClientServlet.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"High","10/19/2016",1,62,TRUE
+"WebServiceInvokerServlet.java",NA,NA,NA,NA,NA,NA,FALSE,"Header Manipulation",NA,"High","10/23/2016",1,58,TRUE
+"WebServiceTesterCleint.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"High","10/19/2016",1,62,TRUE
+"WebServiceTesterCleint.java",NA,NA,NA,NA,NA,NA,FALSE,"Password Management: Hardcoded Password",NA,"Critical","10/19/2016",1,62,TRUE
+"whiteSpaceRule.html",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Request Forgery","A08-CSRF","Medium","7/1/2016",1,172,TRUE
+"whslogof.html",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Request Forgery","A08-CSRF","Medium","9/23/2016",1,88,TRUE
+"whstart.js",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","10/25/2016",8,56,TRUE
+"whtbar.js",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","10/25/2016",1,56,TRUE
+"whtbar.js",NA,NA,NA,NA,NA,NA,FALSE,"Open Redirect","A10-Unvalidated Redirects/Fwds","Critical","10/25/2016",1,56,TRUE
+"whtopic.js",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Scripting: DOM","A03-Cross-Site Scripting","Critical","10/25/2016",3,56,TRUE
+"whutils.js",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/25/2016",1,56,TRUE
+"WorkSummary.java",NA,NA,NA,NA,NA,NA,FALSE,"SQL Injection","A01-Injection","Critical","10/23/2016",1,58,TRUE
+"wpXML.H",NA,NA,NA,NA,NA,NA,FALSE,"String Termination Error",NA,"High","10/13/2016",16,68,TRUE
+"wrOptions.js",NA,NA,NA,NA,NA,NA,FALSE,"Dynamic Code Evaluation: Code Injection","A01-Injection","Critical","10/24/2016",2,57,TRUE
+"WSSimulatorBroker.java",NA,NA,NA,NA,NA,NA,FALSE,"SQL Injection","A01-Injection","Critical","10/10/2016",2,71,TRUE
+"x11fwd.c",NA,NA,NA,NA,NA,NA,FALSE,"Buffer Overflow",NA,"Critical","10/13/2016",2,68,TRUE
+"x11fwd.c",NA,NA,NA,NA,NA,NA,FALSE,"String Termination Error",NA,"High","10/13/2016",6,68,TRUE
+"XACORE_LOGIN.java",NA,NA,NA,NA,NA,NA,FALSE,"Password Management: Hardcoded Password",NA,"High","10/18/2016",2,63,TRUE
+"xml_util.C",NA,NA,NA,NA,NA,NA,FALSE,"Buffer Overflow",NA,"Critical","10/13/2016",1,68,TRUE
+"xml_util.C",NA,NA,NA,NA,NA,NA,FALSE,"Format String: Argument Number Mismatch",NA,"High","10/13/2016",1,68,TRUE
+"xml_util.C",NA,NA,NA,NA,NA,NA,FALSE,"Insecure Compiler Optimization",NA,"Low","10/13/2016",2,68,TRUE
+"xml_util.C",NA,NA,NA,NA,NA,NA,FALSE,"String Termination Error",NA,"High","10/13/2016",4,68,TRUE
+"xmlBenchDecEnc.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Buffer Overflow: Format String",NA,"Critical","10/13/2016",9,68,TRUE
+"xmlBenchXPath.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Buffer Overflow: Format String",NA,"Critical","10/13/2016",4,68,TRUE
+"XmlDomUtil.C",NA,NA,NA,NA,NA,NA,FALSE,"Buffer Overflow: Format String",NA,"High","10/20/2016",4,61,TRUE
+"xmlextras.js",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/25/2016",4,56,TRUE
+"XMLFileReader.java",NA,NA,NA,NA,NA,NA,FALSE,"XML External Entity Injection","A01-Injection","High","10/24/2016",3,57,TRUE
+"XMLFileWriter.java",NA,NA,NA,NA,NA,NA,FALSE,"XML External Entity Injection","A01-Injection","High","10/24/2016",4,57,TRUE
+"XmlGenericParser.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"High","10/25/2016",1,56,TRUE
+"XmlInterface.C",NA,NA,NA,NA,NA,NA,FALSE,"Buffer Overflow: Format String",NA,"High","10/13/2016",1,68,TRUE
+"xmlreadhelper.js",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/25/2016",2,56,TRUE
+"xmlTest.cpp",NA,NA,NA,NA,NA,NA,FALSE,"System Information Leak: Internal",NA,"Low","10/13/2016",1,68,TRUE
+"xmlTestConditional.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"Critical","10/13/2016",1,68,TRUE
+"xmlTestDIP.cpp",NA,NA,NA,NA,NA,NA,FALSE,"System Information Leak: Internal",NA,"Low","10/13/2016",1,68,TRUE
+"xmlTestRead.cpp",NA,NA,NA,NA,NA,NA,FALSE,"System Information Leak: Internal",NA,"Low","10/13/2016",1,68,TRUE
+"xmlTestWrite.cpp",NA,NA,NA,NA,NA,NA,FALSE,"System Information Leak: Internal",NA,"Low","10/13/2016",1,68,TRUE
+"xmlTranscode.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Buffer Overflow: Format String",NA,"High","10/13/2016",1,68,TRUE
+"xmlTranscode.cpp",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"Critical","10/13/2016",1,68,TRUE
+"XMLUtils.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"High","10/20/2016",4,61,TRUE
+"XSLHelper.java",NA,NA,NA,NA,NA,NA,FALSE,"XML External Entity Injection","A01-Injection","High","10/24/2016",1,57,TRUE
+"XslMerger.java",NA,NA,NA,NA,NA,NA,FALSE,"XML External Entity Injection","A01-Injection","High","10/10/2016",1,71,TRUE
+"XsltGen.java",NA,NA,NA,NA,NA,NA,FALSE,"Path Manipulation",NA,"High","10/25/2016",2,56,TRUE
+"yui-bridge.js",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/21/2016",2,60,TRUE
+"yuitest-debug.js",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/25/2016",1,56,TRUE
+"yuitest.js",NA,NA,NA,NA,NA,NA,FALSE,"Cross-Site Request Forgery","A08-CSRF","Medium","10/25/2016",1,56,TRUE
